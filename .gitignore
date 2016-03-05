@@ -3,6 +3,8 @@ Thumbs.db
 ehthumbs.db
 Library/
 Temp/
++*.csproj
++*.sln
 
 # Folder config file
 Desktop.ini
